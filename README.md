@@ -32,6 +32,6 @@ Even though I have hands-on experience with web development, I wanted to:
 - **Preview/Deployment**: [Netlify]
 
 ## 🔗 Live Demo
-(https://abhi-admin-dashboard.netlify.app/)(#) *(Replace with your actual deployed URL)*
+(https://abhi-admin-dashboard.netlify.app/) *(Replace with your actual deployed URL)*
 
 
